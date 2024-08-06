@@ -1,0 +1,39 @@
+h1{
+    font-style: italic;
+    color: #ffffff;
+}
+h2{
+    font-style: italic;
+    color: #5e5b5b;
+}
+h3{
+    font-style: italic;
+    color:#5e5b5b;
+}
+h4{
+    font-style: italic;
+    color: #5e5b5b;
+}
+h5{
+    font-style: italic;
+    color: #5e5b5b;
+}
+h6{
+    font-style: italic;
+    color: #5e5b5b;
+    text-align:center;
+}
+.Myp{
+    text-indent: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 2rem;
+    color: #000000;
+}
+.Photo{
+    width: 200px;
+    height: 200px;
+}
+.embed{
+    width: 100vh;
+}
