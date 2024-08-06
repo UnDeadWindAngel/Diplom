@@ -1,0 +1,5 @@
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\AppClassLibrary\bin\Debug\AppClassLibrary.dll
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\AppClassLibrary\bin\Debug\AppClassLibrary.pdb
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\AppClassLibrary\obj\Debug\AppClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\AppClassLibrary\obj\Debug\AppClassLibrary.dll
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\AppClassLibrary\obj\Debug\AppClassLibrary.pdb

@@ -1,0 +1,8 @@
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\SQLConnectionLibrary\bin\Debug\SQLConnectionLibrary.dll
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\SQLConnectionLibrary\bin\Debug\SQLConnectionLibrary.pdb
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\SQLConnectionLibrary\obj\Debug\SQLConnectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\SQLConnectionLibrary\obj\Debug\SQLConnectionLibrary.dll
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\SQLConnectionLibrary\obj\Debug\SQLConnectionLibrary.pdb
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\SQLConnectionLibrary\bin\Debug\MySql.Data.dll
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\SQLConnectionLibrary\obj\Debug\SQLConnectionLibrary.csproj.AssemblyReference.cache
+C:\Users\UnDeadWindAngel\Downloads\Вова\Вова\SQLConnectionLibrary\obj\Debug\SQLConnectionLibrary.csproj.CopyComplete
